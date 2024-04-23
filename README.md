@@ -104,15 +104,3 @@ strategies:
         - exchange: hitbtc
           market_name: ETCBTC
 ```
-
-## Donate
-
-Feel free to donate:
-
-| METHOD  | ADDRESS                                     |
-|-------- |-------------------------------------------- |
-| Paypal  | https://paypal.me/AlessandroSanino          |
-| BTC     | 1DVgmv6jkUiGrnuEv1swdGRyhQsZjX9MT3          |
-| XVG     | DFstPiWFXjX8UCyUCxfeVpk6JkgaLBSNvS          |
-| ETH     | 0x2fe7bd8a41e91e9284aada0055dbb15ecececf02  |
-| USDT    | 18obCEVmbT6MHXDcPoFwnUuCmkttLbK5Xo          |
